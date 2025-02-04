@@ -1,4 +1,4 @@
-# Project Dependencies and Resources
+# Build a Nextjs Project Management App
 
 ## Backend
 - **Node.js**: [Download](https://nodejs.org/en)
