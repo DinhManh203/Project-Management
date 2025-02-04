@@ -9,15 +9,6 @@
 - **Prisma**: [Documentation](https://www.prisma.io/docs/getting-started)
 - **Postman**: [Download](https://www.postman.com/downloads/)
 
-## AWS Services
-- **AWS**: [Official Website](https://aws.amazon.com/)
-- **AWS CLI**: [Documentation](https://docs.aws.amazon.com/cli/latest/)
-- **AWS Billing**: [Console](https://us-east-1.console.aws.amazon.com/billing/home)
-- **AWS Cognito**: [Service Page](https://aws.amazon.com/cognito/)
-- **AWS Cognito Related Docs**:
-  - [UI Docs](https://ui.docs.amplify.aws/react/connected-components/authenticator)
-  - [JavaScript Tutorial](https://docs.amplify.aws/javascript/)
-
 ## Frontend
 - **Next.js**: [Getting Started](https://nextjs.org/docs/getting-started)
 - **Redux Toolkit with Next.js**: [Documentation](https://redux-toolkit.js.org/usage/nextjs)
